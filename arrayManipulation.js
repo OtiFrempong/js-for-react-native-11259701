@@ -5,7 +5,7 @@ function processArray(arr) {
           return num * num;
       } else {
           
-          return num * 3;
+          return num ** 3;
       }
   });
 }
