@@ -12,12 +12,12 @@ With task 2(second commit):
 - This function processes each number in the input array.
     - If the number is even, it squares the number.
     - If the number is odd, it cubes the number.
-    - This function takes two arrays: `strings` and `numbers`.
+    - This function takes two arrays: strings and numbers.
     - It checks if both arrays have the same length and throws an error if they don't.
-    - It maps over the `strings` array, modifying each string based on the corresponding number in the `numbers` array.
+    - It maps over the strings array, modifying each string based on the corresponding number in the numbers array.
     - If the corresponding number is even, it capitalizes the string.
     - If the corresponding number is odd, it converts the string to lowercase.
-This code snippet should be placed in `arrayManipulation.js`. It defines the `formatArrayStrings` function and demonstrates its usage with example arrays.
+This code snippet should be placed in arrayManipulation.js. It defines the formatArrayStrings function and demonstrates its usage with example arrays.
 
 With task 3(third commit):
 1. It checks if both input arrays (names and modifiedNames) have the same length. If not, it throws an error to ensure data consistency.
